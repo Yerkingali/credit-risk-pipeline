@@ -17,7 +17,7 @@ The goal of this project is to simulate a **bank-grade PD scoring process** used
 ---
 
 ## 🧱 Project Architecture
-
+```
 credit-risk-pipeline/
 │
 ├── data/
