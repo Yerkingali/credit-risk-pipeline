@@ -1,6 +1,6 @@
 # 🏦 End-to-End Credit Risk Pipeline (PD Model)
 
-This project demonstrates a complete **end-to-end Credit Risk Pipeline** for credit risk modeling — from raw loan data to Probability of Default (PD) scores integrated into a SQL Data Warehouse.
+This project demonstrates a complete **end-to-end Credit Risk Pipeline** for credit risk modeling — from raw loan data to Probability of Default (PD) scores integrated into a Azure SQL Data Warehouse.
 
 ---
 
