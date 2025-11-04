@@ -1,0 +1,10 @@
+# --- CORE LIBRARIES ---
+pandas
+numpy
+sqlalchemy
+pyodbc
+python-dotenv
+
+# --- MACHINE LEARNING ---
+scikit-learn
+joblib

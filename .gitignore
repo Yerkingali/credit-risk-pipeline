@@ -1,0 +1,14 @@
+# secrets
+.env
+
+# data files
+data/*
+!data/.gitkeep
+
+# model files
+models/*
+!models/.gitkeep
+
+# system junk
+__pycache__/
+.ipynb_checkpoints/
